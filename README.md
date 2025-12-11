@@ -1,5 +1,5 @@
 # 💫 About Me:
-! WELCOME TO My PROFILE !<br><br>Mobile App Developer <br>I am currently working at Smarteer<br>Looking to collaborate on flutter projects.
+! WELCOME TO MY PROFILE !<br><br>Mobile App Developer <br>I am currently working at Smarteer<br>Looking to collaborate on flutter projects.
 
 
 ## 🌐 Socials:
